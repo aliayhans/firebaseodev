@@ -9,13 +9,13 @@ class LoginPage extends StatelessWidget {
 
   LoginPage({super.key});
 
-  @oversride
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Login"),
-        centerTitle: true,
-        backgroundColor: Colors.red.shade600,
+
+
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
