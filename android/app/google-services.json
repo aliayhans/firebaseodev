@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322554743135",
+    "project_id": "odevfire1",
+    "storage_bucket": "odevfire1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322554743135:android:260e0d56ed4415cf2f8eea",
+        "android_client_info": {
+          "package_name": "com.example.odevfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKvfA4Vx79t66qz2nrTT5_aKceDGmbSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322554743135:android:95d3265f9bd844a32f8eea",
+        "android_client_info": {
+          "package_name": "com.example.rick_and_morty_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKvfA4Vx79t66qz2nrTT5_aKceDGmbSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
